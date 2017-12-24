@@ -3,4 +3,23 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#1b75a9</color>
+    <color name="grayBtn">#BAAE9E</color>
+    <color name="menuBtn">#ED995D</color>
+    <color name="textColor">#F1E5D5</color>
+    <color name="squareColor">#53a5d2</color>
+    <color name="square2">#dbf4ff</color>
+    <color name="square4">#b1e7ff</color>
+    <color name="square8">#69bce1</color>
+    <color name="square16">#439dc6</color>
+    <color name="square32">#2d86af</color>
+    <color name="square64">#1c6f96</color>
+    <color name="square128">#246397</color>
+    <color name="square256">#006bc4</color>
+    <color name="square512">#004076</color>
+    <color name="square1024">#002d53</color>
+    <color name="square2048">#001d36</color>
+    <color name="square4096">#000e1a</color>
+    <color name="square8192">#000000</color>
 </resources>
