@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent"
-    tools:context="com.example.mazma.a4096_5x5.MainActivity">
+    android:layout_width="match_parent"
+    android:paddingTop="35dp"
+    android:paddingStart="15dp"
+    android:paddingEnd="15dp"
+    android:paddingBottom="15dp"
+    android:orientation="vertical"
+    android:background="@mipmap/bg">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -130,6 +135,8 @@
         android:paddingStart="3dp"
         android:paddingTop="3dp"
         android:paddingBottom="3dp"
-        android:paddingEnd="3dp"/>
+        android:paddingEnd="3dp">
 
-</android.support.constraint.ConstraintLayout>
+    </LinearLayout>
+
+</LinearLayout>
